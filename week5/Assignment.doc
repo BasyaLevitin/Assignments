@@ -1,0 +1,2 @@
+#Exercise 1
+Think of a book, a film, a recipe, and a song. Store the titles of these in variables. Ask the user if they enjoy 1. reading books 2. watching films 3.trying new recipes. If they answer yes to books, display a message recommending the book to them. If they answer no to books but yes to films and recipes, recommend them the song. If they answer yes to only films, recommend the film. If they say yes to only recipe, recommend the recipe. If they answer no to all three, recommend a good restaurant instead.
